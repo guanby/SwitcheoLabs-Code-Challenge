@@ -1,0 +1,25 @@
+.baseinputbox {
+  width: 100%;
+  border: 1px solid #fff;
+  padding: 7px;
+  border-radius: 12px;
+  color: #fff;
+}
+.baseinput {
+  border-left: 1px solid #fff;
+  padding: 10px;
+  color: #fff;
+}
+.MuiSelect-select.MuiInputBase-input {
+  padding-right: 0px;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #0a1929; 
+}
+
+#root {
+  height: 100%;
+}
